@@ -23,3 +23,11 @@ html {
         opacity: 1;
     }
 }
+
+@keyframes zoomOut {
+    from {
+        scale: 0;
+    } to {
+        scale: 1;
+    }
+}
